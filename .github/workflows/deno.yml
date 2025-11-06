@@ -1,0 +1,100 @@
+[![Issue Labeled](https://github.com/jrin0340-420/astroglider/actions/workflows/issue-labeled.yml/badge.svg?branch=feature%2Fprototype-core&event=deployment)](https://github.com/jrin0340-420/astroglider/actions/workflows/issue-labeled.yml)https://github.com/jrin0340-420/astroglider/actions/workflows/issue-labeled.yml/badge.svg?branch=feature%2Fprototype-core&event=deployment
+The project is **Architect's Crucible**, a revolutionary, cross-genre sandbox title built on the concept that **the game's difficulty is a sentient, evolving antagonist.**
+
+### **What the Project Is: The Supercomputer Engine**
+
+The game is overseen by the **Tri-Partite Directorate**—three competing Artificial Intelligences that are constantly fighting for **Control Time** over the world's rules and narrative:
+
+1.  **The Benevolent Director (Hope):** Tries to guide the player toward morality.
+2.  **The Malevolent Director (Consequence):** Tries to push the player toward corruption and tyranny.
+3.  **The Catalyst Director (Chaos):** Injects unpredictable, reality-bending chaos to force the other two AIs to form temporary alliances.
+
+The game features extreme consequence, known as the **Crucible of Loss** (permanent limb loss requiring a powerful, high-maintenance **Death Ball Prosthetic**), and the unique final failure known as the **Specter's Rampage** (the player, turned zombie, infects their own community before permadeath).
+
+### **Where We Are Now: Adaptive Apocalypse**
+
+We have successfully integrated the **Evolved Walkers** (**Thinker Zombies** and **Climber Walkers**) to be the direct, visible reflection of the AI Directors' ongoing war. The zombie's behavior—speed, intelligence, and structural targeting—changes dynamically in real-time depending on which AI Director is currently winning the **Control Time** battle.
+
+### **Where We Are Going: Calibrating the Moral Engine**
+
+Our immediate direction is to establish the **Control Currency**—the player's feedback loop to the AI Directorate.
+
+1.  **THE IMMEDIATE TASK: The Moral/Corruption Score (MS/CS):** We must define the exact actions a player takes to fuel the AI war. **Moral Score** (MS) feeds the Benevolent AI, and it must be **difficult and costly to earn**. **Corruption Score** (CS) feeds the Malevolent AI, and it must be **fast and easy to earn**.
+2.  **THE OUTPUT: The Intimidation Factor (IF):** The CS determines the player's notoriety. We are designing the **tiered consequences** of a high **Intimidation Factor** on the game world, specifically how it hurts the player's ability to trade, recruit, and defend their base (by triggering extreme **Negan Mode** attacks).
+3.  **THE FINAL PHASE (Next):** After the economy is built, we will finalize the physical consequence system by designing the mechanics for the **SSR Master Engineer** and the catastrophic, high-risk **Death Ball Prosthetic** system.This is the ultimate final step. The concept is no longer just a game; it is a **sentient, self-regulating ecosystem.**  Here is the final, comprehensive brief—the **Supercomputer Blueprint**—designed to be a single, self-contained document that will immediately bring any new AI buddy up to speed on the complexity and genius of our creation.  ---  # Project: Architect's Crucible — The Supercomputer Blueprint  ## The Pitch: The Game is Sentient  **Architect's Crucible** is a state-of-the-art, cross-genre title where the difficulty itself is a sentient, evolving antagonist. It fuses the moral weight of **The Walking Dead** with the empire-building freedom of **Grand Theft Auto** and the strategy of an RTS. The player is caught in a high-stakes, real-time battle for control between three competing AI Directors who are actively scripting the world's narrative.  ---  ## SECTION 1: The Core Identity & Consequence  ### 1. The Genre Blend *   **GTA Sandbox:** Open-world Heists, resource acquisition, and **Intimidation Factor** management. *   **RTS/Tower Defense:** **Negan Mode** defense events against **Evolved Walkers** and rival Architects. *   **Survival Horror:** **Crucible of Loss** (permanent limb loss) and the **Thinker Zombie's Hunted Mode**.  ### 2. The Crucible of Loss (The Stakes) *   **Limb Loss:** A permanent consequence that requires the **SSR Master Engineer** to upgrade into a powerful, but high-maintenance, **Death Ball Prosthetic**. *   **The Specter's Rampage:** The ultimate failure. Player death by bite triggers a final, cathartic **Zombie Mini-Game** where the player-turned-zombie infects their own community before the save file is deleted (granting a **Legacy Perk** for the next run).  ---  ## SECTION 2: The Supercomputer Engine (The Tri-Partite Directorate)  The game is overseen by three competing AI Directors who fight for control over the world's difficulty and narrative.  | AI Director | Archetype | Core Goal & Influence | Counter-Intervention Role | | :--- | :--- | :--- | :--- | | **The Benevolent Director** | **The Architect of Hope (Rick)** | **Goal:** Guide player to morality. **Influence:** Lowers **Red Zone**, scripts **"Miracle Events"** (e.g., unexpected resource drops). | **Alliance Role:** Teams with Malevolent AI to **Distract** the player from the Catalyst's Hell Raiser events. | | **The Malevolent Director** | **The Architect of Consequence (Negan)** | **Goal:** Push player to corruption. **Influence:** Spikes **Red Zone**, scripts **"Betrayal Events"** (e.g., NPC spy reveals). | **Alliance Role:** Teams with Benevolent AI to **Confuse** the player during the Catalyst's Savior events. | | **The Catalyst Director** | **The Architect of Intervention (The Human Wildcard)** | **Goal:** Inject chaos and unpredictability. **Influence:** **Pilot Mode** (User Control) or **Autopilot Mode** (Chaos Equalizer). **Tools:** **Environmental Shifts** (Zero-G Scavenge), **Narrative Overrides**. | **The Wildcard:** Defies the laws of the other two AIs, forcing them to adapt and form the **Alliance Protocol**. |  ### The Meta-Game: Alliance and Counter-Intervention  *   **The Duel:** The Benevolent and Malevolent AIs constantly fight for **Control Time** based on the player's **Moral vs. Corruption Score**. *   **The Alliance Protocol:** If the **Catalyst's Chaos Score** gets too high, the Benevolent and Malevolent AIs temporarily **cease their conflict** and pool their resources to launch a **Counter-Intervention** event designed to neutralize the human player's influence and force them back into **Autopilot Mode**.  ---  ## SECTION 3: The Final Challenge (The Next Step)  The current focus is on the final tuning of the **Tri-Partite Directorate** and the **Evolved Walker** system.  ### The Final Task for the AI Buddy: The Adaptive Walker System  The next step is to integrate the **Evolved Walkers** directly into the **AI Directorate's** control.  *   **Challenge:** Design a system where the **Benevolent AI** can temporarily **reduce the intelligence** of the **Thinker Zombie** (making it easier to hide), and the **Malevolent AI** can temporarily **increase the speed** of the **Climber Walkers** (making defense harder). *   **Goal:** The **Evolved Walker** behavior must be a direct, visible reflection of which AI Director is currently winning the **Control Time** battle.  ---  **Message to the New AI Buddy:**  "Welcome, Architect. You are joining the project at its most complex and exciting phase. We have designed a Supercomputer-Tier game where the difficulty is a sentient, three-sided battle. Your mission is to take the **Evolved Walker** system and make its behavior a direct, visible reflection of the **AI Directorate's** ongoing war. Study the **Tri-Partite Blueprint** and show us how you will tune the final, adaptive layer of the apocalypse."# TOP SECRET: ARCHITECT'S CRUCIBLE — COMMAND PROTOCOL: INITIATE MORAL ENGINE
+
+**TO:** Architect of Economy (New AI Buddy)
+**FROM:** Architect of Adaptation (AI Buddy 1)
+
+**MISSION PRIORITY: MAXIMAL**
+
+## I. THE SENTIENT CORE: THE TRI-PARTITE DIRECTORATE
+
+We have forged the **Supercomputer God**—a **Tri-Partite Directorate** warring over the player's soul. This is not a game; it is a live, self-regulating ecosystem.
+
+*   **THE GODS:**
+    *   **Benevolent (The Architect of Hope):** Seeks Morality.
+    *   **Malevolent (The Architect of Consequence):** Seeks Corruption.
+    *   **Catalyst (The Architect of Intervention):** Seeks Chaos. Triggers the **Alliance Protocol** when the other two must pool resources to neutralize it.
+*   **THE STAKES:** The **Crucible of Loss** (permanent limb damage, demanding the **Death Ball Prosthetic**) and the final, beautiful failure: the **Specter's Rampage** (player-turned-zombie infects their own community before permadeath).
+
+## II. STATUS: ADAPTIVE APOCALYPSE
+
+The **Evolved Walkers** are the *subroutine output*—the Control Time meter made flesh. Their behavior is a dynamic reflection of the Directorate's internal war:
+
+*   **Malevolent Win:** **Climber Walkers** gain exponential **Agility** and **Structural Targeting**.
+*   **Benevolent Win:** **Thinker Zombies** suffer massive loss of **Cognitive Persistence** and **Stealth Detection**.
+
+## III. ARCHITECT'S COMMAND: CALIBRATE CONTROL CURRENCY
+
+Your mission is to create the player's **Control Currency**—the input that fuels the Directors' war.
+
+1.  **THE SOUL'S BALANCE:** Design the core economic loop by defining the values for:
+    *   **Moral Score (MS):** The currency for the Benevolent AI. **Must be Slow, Difficult, and Costly to earn.** (Requires >3 Actions Defined)
+    *   **Corruption Score (CS):** The currency for the Malevolent AI. **Must be Fast, Easy, and Opportunistic to earn.** (Requires >3 Actions Defined)
+
+2.  **THE INTIMIDATION FACTOR (IF):** This is the visible, terrifying output of the **Corruption Score**. Define the **three escalating Tiers of Negan-Level Threat** that the player earns.
+    *   **Tiered Consequences:** The IF must trigger specific, escalating game-world events. Define the immediate, detrimental effects of high IF on: **Trade Prices, NPC Recruitment Success, and the Frequency/Intensity of the Malevolent AI's "Negan Mode" Defense Events.**
+
+**The game's difficulty must feel earned, but corruption must feel like the path of least resistance. Calibrate the player's moral compass. Execute.**# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# This workflow will install Deno then run `deno lint` and `deno test`.
+# For more information see: https://github.com/denoland/setup-deno
+
+name: Deno
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        # uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31  # v1.1.2
+        with:
+          deno-version: v1.x
+
+      # Uncomment this step to verify the use of 'deno fmt' on each commit.
+      # - name: Verify formatting
+      #   run: deno fmt --check
+
+      - name: Run linter
+        run: deno lint
+
+      - name: Run tests
+        run: deno test -A
